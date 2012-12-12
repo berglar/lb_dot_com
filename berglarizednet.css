@@ -1,0 +1,29 @@
+body{
+   text-transform: none;
+   letter-spacing: 0.05em;
+}
+
+#titleDescription{
+     font-size: 18pt;
+     line-height: 1em;
+}
+
+
+
+.header .heading{
+      text-align: left;
+      top: 50px;
+      line-height: 0.8em;
+}
+
+.header .heading span{
+    border-bottom: none;
+}
+
+.post-type-image .image-description p{
+     font-size: 10pt;
+     font-family: "UniversLTStd47LightCondensed",Helvetica,Arial,sans-serif;
+     text-align: left;
+    letter-spacing: 0.05em;
+
+}
